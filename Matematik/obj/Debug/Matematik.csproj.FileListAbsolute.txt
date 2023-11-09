@@ -1,0 +1,7 @@
+C:\Users\selma\OneDrive\Masaüstü\Tobeto\Matematik\bin\Debug\Matematik.exe.config
+C:\Users\selma\OneDrive\Masaüstü\Tobeto\Matematik\bin\Debug\Matematik.exe
+C:\Users\selma\OneDrive\Masaüstü\Tobeto\Matematik\bin\Debug\Matematik.pdb
+C:\Users\selma\OneDrive\Masaüstü\Tobeto\Matematik\obj\Debug\Matematik.csproj.AssemblyReference.cache
+C:\Users\selma\OneDrive\Masaüstü\Tobeto\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\selma\OneDrive\Masaüstü\Tobeto\Matematik\obj\Debug\Matematik.exe
+C:\Users\selma\OneDrive\Masaüstü\Tobeto\Matematik\obj\Debug\Matematik.pdb
